@@ -8,11 +8,11 @@ I like stuff.
 - With Debian Linux using WSL
 
 #### Some cool tools on Windows
-- Neovim ('''winget install Neovim.Neovim''')
-- GlazeWM ('''winget install glzr-io.glazewm''')
-- PowerToys ('''winget install Microsoft.PowerToys''')
-- PaintDotNet ('''winget install dotPDN.PaintDotNet''')
-- WinDbg ('''winget install Microsoft.WinDbg''')
+- Neovim (```winget install Neovim.Neovim```)
+- GlazeWM (```winget install glzr-io.glazewm```)
+- PowerToys (```winget install Microsoft.PowerToys```)
+- PaintDotNet (```winget install dotPDN.PaintDotNet```)
+- WinDbg (```winget install Microsoft.WinDbg```)
 
 #### Basic Windows Programming Setup
 
