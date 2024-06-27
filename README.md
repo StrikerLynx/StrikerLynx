@@ -22,3 +22,9 @@ I like stuff.
 #### Basic Linux Programming Setup
 
 ```apt install gcc manpage-dev neovim git make```
+
+#### Some cool Linux distros
+- Fedora Linux (```https://fedoraproject.org/```)
+- Arch Linux (```https://archlinux.org/```)
+- Void Linux (```https://voidlinux.org/```)
+- Mint Linux (```https://linuxmint.com/```)
