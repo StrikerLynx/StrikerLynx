@@ -1,9 +1,8 @@
-# Hello
+# My Stuff
 
 I like stuff.
 
 ## Setup
-
 - OS: Windows 11
 - With Debian Linux using WSL
 
@@ -15,12 +14,10 @@ I like stuff.
 - WinDbg (```winget install Microsoft.WinDbg```)
 
 #### Basic Windows Programming Setup
-
 - Visual Studio Build Tools
 - Windows SDK
 
 #### Basic Linux Programming Setup
-
 ```apt install gcc manpage-dev neovim git make```
 
 #### Some cool Linux distros
