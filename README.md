@@ -24,7 +24,7 @@ I like stuff.
 ```apt install gcc manpage-dev neovim git make```
 
 #### Some cool Linux distros
-- Fedora Linux (```https://fedoraproject.org/```)
-- Arch Linux (```https://archlinux.org/```)
-- Void Linux (```https://voidlinux.org/```)
-- Mint Linux (```https://linuxmint.com/```)
+- Fedora Linux (https://fedoraproject.org/)
+- Arch Linux (https://archlinux.org/)
+- Void Linux (https://voidlinux.org/)
+- Mint Linux (https://linuxmint.com/)
