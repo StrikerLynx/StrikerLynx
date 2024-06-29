@@ -20,8 +20,9 @@ I like stuff.
 #### Basic Linux Programming Setup
 ```apt install gcc manpage-dev neovim git make```
 
-#### Some cool Linux distros
+#### Some Linux distros I like
 - Fedora Linux (https://fedoraproject.org/)
-- Arch Linux (https://archlinux.org/)
+- Artix Linux (https://artixlinux.org/)
 - Void Linux (https://voidlinux.org/)
 - Mint Linux (https://linuxmint.com/)
+- MX Linux (https://mxlinux.org/)
