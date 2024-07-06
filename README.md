@@ -3,8 +3,9 @@
 I like stuff.
 
 ## Setup
-- OS: Windows 11
-- With Debian Linux using WSL
+- Main Desktop: Windows 11 (with Debian WSL)
+- Secondary Laptop: ChromeOS
+- Third Laptop: Fedora or MX Linux
 
 #### Some cool tools on Windows
 - Neovim (```winget install Neovim.Neovim```)
@@ -24,5 +25,4 @@ I like stuff.
 - Fedora Linux (https://fedoraproject.org/)
 - Artix Linux (https://artixlinux.org/)
 - Void Linux (https://voidlinux.org/)
-- Mint Linux (https://linuxmint.com/)
 - MX Linux (https://mxlinux.org/)
