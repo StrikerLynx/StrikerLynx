@@ -3,9 +3,9 @@
 I like stuff.
 
 ## Setup
-- Main Desktop: Windows 11 (with Debian WSL)
-- Secondary Laptop: ChromeOS
-- Third Laptop: Fedora or MX Linux
+- Main Desktop: Windows 11 Pro (with Debian WSL)
+- Main Laptop: ChromeOS
+- Other Laptop: Fedora or MX Linux
 
 #### Some cool tools on Windows
 - Neovim (```winget install Neovim.Neovim```)
