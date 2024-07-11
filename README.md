@@ -9,7 +9,6 @@ I like stuff.
 
 #### Some cool tools on Windows
 - Neovim (```winget install Neovim.Neovim```)
-- Helix (```winget install Helix.Helix```)
 - GlazeWM (```winget install glzr-io.glazewm```)
 - PowerToys (```winget install Microsoft.PowerToys```)
 - PaintDotNet (```winget install dotPDN.PaintDotNet```)
