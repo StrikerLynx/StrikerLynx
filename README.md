@@ -8,11 +8,12 @@ I like stuff.
 - Other Laptop: Fedora or MX Linux
 
 #### Some cool tools on Windows
-- Neovim (```winget install Neovim.Neovim```)
-- GlazeWM (```winget install glzr-io.glazewm```)
+- Vim (```winget install vim```)
+- Notepad++ (```winget install Notepad++.Notepad++```)
 - PowerToys (```winget install Microsoft.PowerToys```)
 - PaintDotNet (```winget install dotPDN.PaintDotNet```)
 - WinDbg (```winget install Microsoft.WinDbg```)
+- Debian WSL (```wsl --install Debian```)
 
 #### Basic Windows Programming Setup
 - Visual Studio Code
@@ -20,10 +21,10 @@ I like stuff.
 - Windows SDK
 
 #### Basic Linux Programming Setup
-```apt install gcc manpage-dev neovim git make```
+```apt install gcc manpage-dev vim git make```
 
 #### Some Linux distros I like
 - Fedora Linux (https://fedoraproject.org/)
-- Artix Linux (https://artixlinux.org/)
+- Alma Linux (https://almalinux.org/)
 - Void Linux (https://voidlinux.org/)
 - MX Linux (https://mxlinux.org/)
