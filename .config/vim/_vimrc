@@ -1,0 +1,29 @@
+filetype plugin indent on
+set encoding=utf-8
+set autoindent
+set number
+set cursorline
+set noswapfile
+set mouse=a
+color desert
+syntax on
+
+set tabstop=4
+set softtabstop=4
+set shiftwidth=4
+
+set ignorecase
+set smartcase
+set nobackup
+set wildmenu
+
+function InitLspPlugins()
+	call plug#begin('~/vimplugins')
+
+	Plug 'prabirshrestha/vim-lsp'
+	Plug 'mattn/vim-lsp-settings'
+
+	call plug#end()
+endfunction
+
+call InitLspPlugins()
