@@ -8,7 +8,7 @@ I like stuff.
 - Other Laptop: Fedora or MX Linux
 
 #### Some cool tools on Windows
-- Vim (```winget install vim```)
+- Vim (```winget install vim.vim```)
 - Notepad++ (```winget install Notepad++.Notepad++```)
 - PowerToys (```winget install Microsoft.PowerToys```)
 - PaintDotNet (```winget install dotPDN.PaintDotNet```)
