@@ -1,11 +1,9 @@
 # My Stuff
 
-I like stuff.
-
 ## Setup
 - Main Desktop: Windows 11 Pro (with Debian WSL)
 - Main Laptop: ChromeOS
-- Other Laptop: Fedora or MX Linux
+- Other Laptop: Fedora
 
 #### Some cool tools on Windows
 - Vim (```winget install vim.vim```)
@@ -27,4 +25,3 @@ I like stuff.
 - Fedora Linux (https://fedoraproject.org/)
 - Alma Linux (https://almalinux.org/)
 - Void Linux (https://voidlinux.org/)
-- MX Linux (https://mxlinux.org/)
