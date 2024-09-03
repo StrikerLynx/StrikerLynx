@@ -1,4 +1,7 @@
-// Use to comment
+//---------------------------------
+// Config for gmod stuff.
+// Double slash for comments.
+//---------------------------------
 
 // Binds
 bind "h" "cl_righthand 0"
