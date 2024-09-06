@@ -16,7 +16,8 @@
 #### Basic Windows Programming Setup
 - Visual Studio Code
 - Visual Studio Build Tools (CMD)
-- Windows SDK
+- Notepad++
+- Windows Terminal
 
 #### Basic Linux Programming Setup
 ```apt install gcc manpage-dev vim git make```
