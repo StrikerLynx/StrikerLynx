@@ -5,7 +5,7 @@
 - Main Laptop: ChromeOS
 - Other Laptop: Fedora
 
-- #### Basic Windows Programming Setup
+#### Basic Windows Programming Setup
 - Visual Studio Code
 - Visual Studio 2022
 - Visual Studio Build Tools (CMD)
