@@ -5,11 +5,11 @@
 - Main Laptop: ChromeOS
 - Other Laptop: Fedora
 
-#### Basic Windows Programming Setup
+#### Some Windows Stuff I Use
 - Visual Studio Code
-- Visual Studio 2022
 - Visual Studio Build Tools (CMD)
 - Notepad++
+- Neovim
 - Windows Terminal
 
 #### Some cool tools on Windows
@@ -19,11 +19,10 @@
 - PaintDotNet (```winget install dotPDN.PaintDotNet```)
 - Debian WSL (```wsl --install Debian```)
 
-#### Basic Linux Programming Setup
+#### Some Linux Stuff
 ```apt install gcc manpage-dev neovim git make```
 
 #### Some Linux distros I like
 - Fedora Linux (https://fedoraproject.org/)
 - Linux Mint (https://linuxmint.com/)
-- Alma Linux (https://almalinux.org/)
 - Arch Linux (https://archlinux.org/)
