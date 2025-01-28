@@ -12,7 +12,7 @@
 - Neovim
 - Windows Terminal
 
-#### Some cool tools on Windows
+#### Some Cool Tools on Windows
 - Neovim (```winget install Neovim.Neovim```)
 - Notepad++ (```winget install Notepad++.Notepad++```)
 - PowerToys (```winget install Microsoft.PowerToys```)
@@ -22,7 +22,7 @@
 #### Some Linux Stuff
 ```apt install gcc manpage-dev neovim git make```
 
-#### Some Linux distros I like
+#### Some Linux Distros I like
 - Fedora Linux (https://fedoraproject.org/)
 - Linux Mint (https://linuxmint.com/)
 - Arch Linux (https://archlinux.org/)
