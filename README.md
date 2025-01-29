@@ -9,18 +9,18 @@
 - Visual Studio Code
 - Visual Studio Build Tools (CMD)
 - Notepad++
-- Neovim
+- Vim
 - Windows Terminal
 
 #### Some Cool Tools on Windows
-- Neovim (```winget install Neovim.Neovim```)
+- Vim (```winget install Vim.Vim```)
 - Notepad++ (```winget install Notepad++.Notepad++```)
 - PowerToys (```winget install Microsoft.PowerToys```)
 - PaintDotNet (```winget install dotPDN.PaintDotNet```)
 - Debian WSL (```wsl --install Debian```)
 
 #### Some Linux Stuff
-```apt install gcc manpage-dev neovim git make```
+```apt install gcc manpage-dev vim git make```
 
 #### Some Linux Distros I like
 - Fedora Linux (https://fedoraproject.org/)
