@@ -16,7 +16,6 @@
 - PowerToys (```winget install Microsoft.PowerToys```)
 - PaintDotNet (```winget install dotPDN.PaintDotNet```)
 - WinDbg (```winget install Microsoft.WinDbg```)
-- Cutter (```winget install Rizin.Cutter```)
 - Debian WSL (```wsl --install Debian```)
 
 #### Some Linux Stuff
