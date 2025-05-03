@@ -7,7 +7,6 @@
 
 #### Some Windows Stuff I Use
 - Visual Studio Code
-- Visual Studio Build Tools (CMD)
 - Notepad++
 - Windows Terminal
 
@@ -17,9 +16,6 @@
 - PaintDotNet (```winget install dotPDN.PaintDotNet```)
 - WinDbg (```winget install Microsoft.WinDbg```)
 - Debian WSL (```wsl --install Debian```)
-
-#### Some Linux Stuff
-```apt install gcc manpage-dev vim git make```
 
 #### Some Linux Distros I like
 - Fedora Linux (https://fedoraproject.org/)
