@@ -1,12 +1,14 @@
 filetype plugin indent on
 set encoding=utf-8
-set autoindent
 set number
+
+set mouse=a
+set autoindent
 set cursorline
 set noswapfile
-set mouse=a
-color desert
+
 syntax on
+color desert
 
 set tabstop=4
 set softtabstop=4
