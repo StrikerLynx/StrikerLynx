@@ -14,7 +14,7 @@
 - Notepad++ (```winget install Notepad++.Notepad++```)
 - PowerToys (```winget install Microsoft.PowerToys```)
 - PaintDotNet (```winget install dotPDN.PaintDotNet```)
-- WinDbg (```winget install Microsoft.WinDbg```)
+- Everything (```winget install --id voidtools.Everything```)
 - Debian WSL (```wsl --install Debian```)
 
 #### Some Linux Distros I like
