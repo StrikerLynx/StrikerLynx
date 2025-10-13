@@ -1,4 +1,5 @@
 # My Stuff
+I collection of all my configs and other extra stuff
 
 ## Setup
 - Main Desktop: Windows 11 Pro (with Debian WSL)
