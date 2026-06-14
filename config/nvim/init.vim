@@ -4,7 +4,6 @@ set number
 
 set mouse=a
 set autoindent
-set cursorline
 set noswapfile
   
 syntax on
