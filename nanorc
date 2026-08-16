@@ -1,0 +1,11 @@
+#-----------------#
+#  	Nano Config   #
+#-----------------#
+set linenumbers
+set tabsize 4
+set tabstospaces
+set smarthome
+set indicator
+set mouse
+set zap
+set afterends
