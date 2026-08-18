@@ -1,0 +1,13 @@
+#----------------#
+#   Main Theme   #
+#----------------#
+"ui.background" = { bg = "background" }
+"ui.text" = { fg = "foreground" }
+
+"ui.selection" = {bg = "#2a2a2a"}
+"ui.selection.primary" = {bg = "#2a2a2a"}
+"ui.statusline" = {fg = "#000000", bg = "#00FF00"}
+
+[palette]
+background = "#232627"
+foreground = "#00FF00"
