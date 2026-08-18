@@ -1,11 +1,16 @@
 # My Stuff
-A collection of some configs and other extra stuff
+A collection of some configs and other extra stuff.
+
+### Setup
+- Desktop: Windows 11
+- Laptop: Fedora Linux (KDE Plasma)
 
 #### Some Windows Stuff I Use
 - Notepad++
-- Visual Studio Code
-- Windows Terminal
 - MS Edit
+- Foobar2000
+- Windows Terminal
+- Visual Studio Code
 
 #### Some Cool Tools on Windows
 - Notepad++ (```winget install Notepad++.Notepad++```)
@@ -14,3 +19,10 @@ A collection of some configs and other extra stuff
 - Everything (```winget install --id voidtools.Everything```)
 - WinDbg (```winget install Microsoft.WinDbg```)
 - Edit (```winget install Microsoft.Edit```)
+
+#### Some Linux Stuff I Use
+- KWrite (dnf install kwrite)
+- btop++ (dnf install btop)
+- Helix (dnf install helix)
+- Konsole (dnf install konsole)
+- GNU Nano
