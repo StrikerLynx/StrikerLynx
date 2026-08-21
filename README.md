@@ -21,8 +21,8 @@ A collection of some configs and other extra stuff.
 - Edit (```winget install Microsoft.Edit```)
 
 #### Some Linux Stuff I Use
-- KWrite (dnf install kwrite)
-- btop++ (dnf install btop)
-- Helix (dnf install helix)
-- Konsole (dnf install konsole)
+- KWrite (```dnf install kwrite```)
+- btop++ (```dnf install btop```)
+- Helix (```dnf install helix```)
+- Konsole (```dnf install konsole```)
 - GNU Nano
