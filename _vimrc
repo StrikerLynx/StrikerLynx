@@ -7,7 +7,8 @@ set autoindent
 set noswapfile
 
 syntax on
-color desert
+color Main_Stuff
+set guioptions-=T
 
 set tabstop=4
 set softtabstop=4
@@ -18,13 +19,13 @@ set smartcase
 set nobackup
 set wildmenu
 
-function InitLspPlugins()
-	call plug#begin('~/vimplugins')
-
-	Plug 'prabirshrestha/vim-lsp'
-	Plug 'mattn/vim-lsp-settings'
-
-	call plug#end()
-endfunction
-
-call InitLspPlugins()
+#function InitLspPlugins()
+#	call plug#begin('~/vimplugins')
+#
+#	Plug 'prabirshrestha/vim-lsp'
+#	Plug 'mattn/vim-lsp-settings'
+#
+#	call plug#end()
+#endfunction
+#
+#call InitLspPlugins()
