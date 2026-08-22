@@ -3,13 +3,7 @@
 ;------------------;
 (tool-bar-mode -1)
 (global-display-line-numbers-mode 1)
-
-
-
-
-
 (setq mouse-yank-at-point t)
-
 
 ;; Allow for shorter responses: "y" for yes and "n" for no.
 (setq read-answer-short t)

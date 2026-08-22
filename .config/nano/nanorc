@@ -1,11 +1,19 @@
-#-----------------#
-#  	Nano Config   #
-#-----------------#
-set linenumbers
-set tabsize 4
-set tabstospaces
-set smarthome
-set indicator
-set mouse
-set zap
-set afterends
+#-------------------------------#
+#  	       Nano Config          #
+#-------------------------------#
+set linenumbers                 #
+set tabsize 4                   #
+set tabstospaces                #
+set smarthome                   #
+set indicator                   #
+set mouse                       #
+set zap                         #
+set afterends                   #
+#-------------------------------#
+#            Theming            #
+#-------------------------------#
+set titlecolor #0F0,#222   #
+set statuscolor #0F0,#222  #
+set numbercolor #0F0,#222  #
+set keycolor #0F0,#222     #
+#-------------------------------#
