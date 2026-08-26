@@ -23,7 +23,7 @@ set nobackup								"\
 set wildmenu								"\
 											"\
 call plug#begin()							"\
-Plug 'rstacruz/vim-closer'					"\
+Plug 'tmsvg/pear-tree'						"\
 Plug 'vim-airline/vim-airline'				"\
 Plug 'preservim/nerdtree'					"\
 Plug 'https://github.com/ap/vim-css-color'	"\
