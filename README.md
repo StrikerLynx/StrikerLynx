@@ -9,15 +9,15 @@ A collection of some configs and other extra stuff.
 - Notepad++
 - MS Edit
 - Foobar2000
-- Windows Terminal
 - Visual Studio Code
+- Windows Terminal
+
 
 #### Some Cool Tools on Windows
 - Notepad++ (```winget install Notepad++.Notepad++```)
 - PowerToys (```winget install Microsoft.PowerToys```)
 - PaintDotNet (```winget install dotPDN.PaintDotNet```)
 - Everything (```winget install --id voidtools.Everything```)
-- WinDbg (```winget install Microsoft.WinDbg```)
 - Edit (```winget install Microsoft.Edit```)
 
 #### Some Linux Stuff I Use
@@ -25,4 +25,3 @@ A collection of some configs and other extra stuff.
 - btop++ (```dnf install btop```)
 - Helix (```dnf install helix```)
 - Konsole (```dnf install konsole```)
-- GNU Nano

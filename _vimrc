@@ -12,6 +12,7 @@ set noswapfile								"\
 syntax on									"\
 color Main_Stuff							"\
 set guioptions-=T							"\
+set termguicolors							"\
 											"\
 set tabstop=4								"\
 set softtabstop=4							"\
