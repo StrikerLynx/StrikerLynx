@@ -24,6 +24,7 @@ set nobackup								"\
 set wildmenu								"\
 											"\
 call plug#begin()							"\
+Plug 'mhinz/vim-startify'					"\
 Plug 'tmsvg/pear-tree'						"\
 Plug 'vim-airline/vim-airline'				"\
 Plug 'preservim/nerdtree'					"\
@@ -39,6 +40,8 @@ nnoremap <C-f> :NERDTreeFind<CR>			"\
 											"\
 let g:NERDTreeDirArrowExpandable="+"		"\
 let g:NERDTreeDirArrowCollapsible="~"		"\
+											"\
+nnoremap <leader>v "+gP						"\
 											"\
 "function InitLspPlugins()					"\
 "	call plug#begin('~/vimplugins')			"\
