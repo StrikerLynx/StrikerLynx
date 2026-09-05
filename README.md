@@ -1,27 +1,27 @@
 # My Stuff
 A collection of some configs and other extra stuff.
 
-### Setup
-- Desktop: Windows 11
-- Laptop: Fedora Linux (KDE Plasma)
+<br>
 
-#### Some Windows Stuff I Use
-- Notepad++
-- MS Edit
-- Foobar2000
-- Visual Studio Code
-- Windows Terminal
+### Some Repos
+- [Game Configs](https://github.com/StrikerLynx/My_Game_Configs)
 
+- [Chrome Obsidian Theme](https://github.com/StrikerLynx/Obsidian-Theme-Chrome)
 
-#### Some Cool Tools on Windows
+- [Yellowstone Gallery]("https://github.com/StrikerLynx/Yellowstone_Gallery")
+
+- [Tab Saver]("https://github.com/StrikerLynx/Lynx_Tab_Saver")
+
+<br>
+
+### Some Windows Stuff I Use
 - Notepad++ (```winget install Notepad++.Notepad++```)
+- MS Edit (```winget install Microsoft.Edit```)
 - PowerToys (```winget install Microsoft.PowerToys```)
 - PaintDotNet (```winget install dotPDN.PaintDotNet```)
 - Everything (```winget install --id voidtools.Everything```)
-- Edit (```winget install Microsoft.Edit```)
-
-#### Some Linux Stuff I Use
-- KWrite (```dnf install kwrite```)
-- btop++ (```dnf install btop```)
-- Helix (```dnf install helix```)
-- Konsole (```dnf install konsole```)
+- Foobar2000 (```winget install -e --id PeterPawlowski.foobar2000```)
+- Visual Studio Code(```winget install Microsoft.VisualStudioCode```)
+- Windows Terminal (```winget install --id Microsoft.WindowsTerminal -e```)
+- Lazygit (```winget install -e --id=JesseDuffield.lazygit```)
+- Godot
