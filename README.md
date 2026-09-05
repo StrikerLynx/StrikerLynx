@@ -8,9 +8,9 @@ A collection of some configs and other extra stuff.
 
 - [Chrome Obsidian Theme](https://github.com/StrikerLynx/Obsidian-Theme-Chrome)
 
-- [Yellowstone Gallery]("https://github.com/StrikerLynx/Yellowstone_Gallery")
+- [Yellowstone Gallery](https://github.com/StrikerLynx/Yellowstone_Gallery)
 
-- [Tab Saver]("https://github.com/StrikerLynx/Lynx_Tab_Saver")
+- [Tab Saver](https://github.com/StrikerLynx/Lynx_Tab_Saver)
 
 <br>
 
@@ -24,4 +24,4 @@ A collection of some configs and other extra stuff.
 - Visual Studio Code(```winget install Microsoft.VisualStudioCode```)
 - Windows Terminal (```winget install --id Microsoft.WindowsTerminal -e```)
 - Lazygit (```winget install -e --id=JesseDuffield.lazygit```)
-- Godot
+- Godot (```winget install GodotEngine.GodotEngine.Mono```)
