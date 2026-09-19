@@ -1,6 +1,6 @@
 # My Stuff
 A collection of some configs and other extra stuff.
-
+#### [My Gitlab](https://gitlab.com/StrikerLynx)
 <br>
 
 ### Some Repos
@@ -12,16 +12,11 @@ A collection of some configs and other extra stuff.
 
 - [Tab Saver](https://github.com/StrikerLynx/Lynx_Tab_Saver)
 
-<br>
-
 ### Some Windows Stuff I Use
-- Notepad++ (```winget install Notepad++.Notepad++```)
-- MS Edit (```winget install Microsoft.Edit```)
-- PowerToys (```winget install Microsoft.PowerToys```)
-- PaintDotNet (```winget install dotPDN.PaintDotNet```)
-- Everything (```winget install --id voidtools.Everything```)
-- Foobar2000 (```winget install -e --id PeterPawlowski.foobar2000```)
-- Visual Studio Code(```winget install Microsoft.VisualStudioCode```)
-- Windows Terminal (```winget install --id Microsoft.WindowsTerminal -e```)
-- Lazygit (```winget install -e --id=JesseDuffield.lazygit```)
-- Godot (```winget install GodotEngine.GodotEngine.Mono```)
+- Notepad++     (```winget install Notepad++.Notepad++```)
+- PowerToys     (```winget install Microsoft.PowerToys```)
+- PaintDotNet   (```winget install dotPDN.PaintDotNet```)
+- Everything    (```winget install --id voidtools.Everything```)
+- Foobar2000    (```winget install -e --id PeterPawlowski.foobar2000```)
+- VS Code       (```winget install Microsoft.VisualStudioCode```)
+- Lazygit       (```winget install -e --id=JesseDuffield.lazygit```)
