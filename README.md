@@ -1,7 +1,7 @@
 # My Stuff
 A collection of some configs and other extra stuff.
-#### [My Gitlab](https://gitlab.com/StrikerLynx)
-<br>
+
+### [My Gitlab](https://gitlab.com/StrikerLynx)
 
 ### Some Repos
 - [Game Configs](https://github.com/StrikerLynx/My_Game_Configs)
